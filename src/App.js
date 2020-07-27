@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <Router>
         <Navbar />
-        <Route path="/" exact component={Home}/>
+        <Route path="/kuliner/" exact component={Home}/>
         <Route path="/city/:city_id"  component={City} />
         <Route path="/restaurant/:restaurant_id" component={RestaurantDetail} />
         <Footer />
