@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kuliner/static/css/main.874bc5b9.chunk.css",
-    "main.js": "/kuliner/static/js/main.1c88cb0e.chunk.js",
-    "main.js.map": "/kuliner/static/js/main.1c88cb0e.chunk.js.map",
+    "main.js": "/kuliner/static/js/main.0593c80b.chunk.js",
+    "main.js.map": "/kuliner/static/js/main.0593c80b.chunk.js.map",
     "runtime-main.js": "/kuliner/static/js/runtime-main.3654a11a.js",
     "runtime-main.js.map": "/kuliner/static/js/runtime-main.3654a11a.js.map",
     "static/js/2.4c1975d0.chunk.js": "/kuliner/static/js/2.4c1975d0.chunk.js",
     "static/js/2.4c1975d0.chunk.js.map": "/kuliner/static/js/2.4c1975d0.chunk.js.map",
     "index.html": "/kuliner/index.html",
-    "precache-manifest.ceda414ddfc0fe6c7441ee8490138f90.js": "/kuliner/precache-manifest.ceda414ddfc0fe6c7441ee8490138f90.js",
+    "precache-manifest.0a56a29af89500a1c7338d8873a99579.js": "/kuliner/precache-manifest.0a56a29af89500a1c7338d8873a99579.js",
     "service-worker.js": "/kuliner/service-worker.js",
     "static/css/main.874bc5b9.chunk.css.map": "/kuliner/static/css/main.874bc5b9.chunk.css.map",
     "static/js/2.4c1975d0.chunk.js.LICENSE.txt": "/kuliner/static/js/2.4c1975d0.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3654a11a.js",
     "static/js/2.4c1975d0.chunk.js",
     "static/css/main.874bc5b9.chunk.css",
-    "static/js/main.1c88cb0e.chunk.js"
+    "static/js/main.0593c80b.chunk.js"
   ]
 }
